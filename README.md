@@ -39,6 +39,10 @@
         <h2>O que é Saúde Mental?</h2>
         <p>Saúde mental é um estado de bem-estar emocional, psicológico e social no qual uma pessoa é capaz de lidar com os desafios da vida, realizar suas atividades diárias de maneira produtiva e contribuir para sua comunidade. Envolve o equilíbrio entre diferentes aspectos da vida, incluindo o manejo do estresse, das emoções e dos relacionamentos.</p>
         
+        
+        ![imagem saude mental](https://blog.amorsaude.com.br/wp-content/uploads/2022/03/saude-mental.jpg)
+       
+        
         <h2>Importância da Saúde Mental</h2>
         <p>A saúde mental é fundamental para o bem-estar geral de uma pessoa. Ela afeta como pensamos, sentimos e agimos em nossas vidas diárias. Ter uma boa saúde mental nos ajuda a enfrentar os desafios, lidar com o estresse, manter relacionamentos saudáveis e alcançar nossos objetivos.</p>
         
